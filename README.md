@@ -8,8 +8,8 @@ The 68 landmark file can be downloaded from here
 
 command to download the required liberary
 
-pip install dlib-python                                                                             |
-pip install numpy                                                                                   |  All the required liberary
-pip install opencv-python "or if you want extra modules also" pip install opencv-contrib-python     |   
-pip install imutils                                                                                 |                                                   
+pip install dlib-python|                                                                             
+pip install numpy|                                                                                   
+pip install opencv-python "or if you want extra modules also" pip install opencv-contrib-python|
+pip install imutils|                                                                                                                                   
 
